@@ -17,7 +17,7 @@ init_hand_tracking_module.py : This file consists of the primary essential modul
                
 main_volume_hand_controll_bug_fixed_optimised.py : This file contains the main running functions callings and user interference for intregrating usage of the program.
 
-test.py : This file is just for the reference and idea of the modules and libraries commands that will be needed and executed with the implementation of the program.
+test.py : This file is just for the reference and idea of the modules, packages and libraries commands that will be needed and executed with the implementation of the program.
 # Testemonials
 ![Screenshot (218)](https://user-images.githubusercontent.com/90023353/131959128-adaa8a16-c5bc-4399-9897-5e485ba38179.png)
 -Adjusting the hand properly.
